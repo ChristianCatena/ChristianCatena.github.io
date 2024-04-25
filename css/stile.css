@@ -1,0 +1,53 @@
+
+        body {
+            background-image: url('r1.jpg');
+            margin-bottom: 50px; 
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 20px; 
+        }
+
+        .desc {
+            text-align: center;
+            padding-left: 30px;
+            padding-right: 30px;
+            padding-top: 30px;
+            color: blue;
+        }
+
+        .container {
+            margin-top: 30px;
+            margin-bottom: 50px; 
+        }
+
+        .audio-container {
+            text-align: center;
+            margin-top: 50px;
+            margin-bottom: 50px; 
+        }
+
+        .img-container img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 10px; 
+        }
+
+        ul.nav-tabs .nav-item a.nav-link {
+            color: white;
+        }
+
+        ul.nav-tabs .nav-item a.nav-link:hover {
+            color: blue;
+        }
+
+		h6 {
+            text-align: center;
+        }
+
+    .icon {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
